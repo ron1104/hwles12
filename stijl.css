@@ -1,0 +1,69 @@
+header{
+  background-color: #B7CEEB;
+  width: 100%;
+  height: 100px;
+  }
+table{
+  width:50%;
+}
+#abc{
+  background-color: pink;
+}
+#afb1{
+  width:100px;
+  height:50px;
+}
+#def{
+  background-color: salmon;
+}
+#afb2{
+  width:100px;
+  height:50px;
+}
+#ghi{
+  background-color: orange;
+}
+#afb3{
+  width:100px;
+  height:50px;
+}
+#jkl{
+  background-color: yellow;
+}
+#afb4{
+  width:100px;
+  height:50px;
+}
+#mno{
+  background-color: chocolate;
+}
+#afb5{
+  width:100px;
+  height:50px;
+}
+#pqr{
+  background-color: seagreen;
+}
+#afb6{
+  width:100px;
+  height:50px;
+}
+#stu{
+  background-color: aqua;
+}
+#afb7{
+  width:100px;
+  height:50px;
+}
+#vwx{
+  background-color: powderblue;
+}
+#afb8{
+  width:100px;
+  height:50px;
+}
+footer{
+  background-color: #D3D3D3;
+  width: 100%;
+  height: 50px;
+  }
